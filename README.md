@@ -1,4 +1,4 @@
 # temp
 
-## Fareware, THU!
+## Fareware, TH!
 ## Hello, world!
